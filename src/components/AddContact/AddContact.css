@@ -1,0 +1,23 @@
+.AddContact {
+    width: 100%;
+    padding: 20px 0;
+}
+.AddContact h1 {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    width: 100%;
+    padding: 10px 0;
+    color: #EEE;
+}
+.AddContact form {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    width: 100%;
+    padding: 10px 0;
+    color: #EEE;
+}
+.AddContact form input {
+    margin: 0 20px 0 0;
+}

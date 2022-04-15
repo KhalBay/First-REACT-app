@@ -1,0 +1,16 @@
+.Login h1 {
+    margin: 25px 0;
+}
+
+.Login form {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Login .error {
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 12px;
+}
